@@ -1,7 +1,6 @@
 'use strict';
 
-angular
-  .module('workflowApp', [
+angular.module('workflowApp', [
     'ngCookies',
     'ngResource',
     'ngSanitize',
@@ -9,23 +8,24 @@ angular
   ])
   .config(function ($routeProvider) {
     $routeProvider
-      .when('/main', {
+      .when('/', {
         templateUrl: 'views/main.html',
         controller: 'MainCtrl'
       })
-      .when('/', {
-	    templateUrl: 'views/login.html',
-	    controller: 'LogCtrl'
+      .when('/login', {
+	      templateUrl: 'views/login.html',
+	      controller: 'MainCtrl'
       })
       .when('/report', {
-        templateUrl: 'views/report.html',
-		controller: 'MainCtrl'
-	  })
+          templateUrl: 'views/report.html',
+		      controller: 'MainCtrl'
+	      })
 	  .when('/account', {
-		templateUrl: 'views/account.html',
-		controller: 'MainCtrl'
-	  })
+		      templateUrl: 'views/account.html',
+		      controller: 'MainCtrl'
+	      })
       .otherwise({
-        redirectTo: '/'
-      });
+            redirectTo: '/'
+          });
   });
+

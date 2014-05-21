@@ -11,7 +11,10 @@ body {
   padding-left: 15px;
   padding-right: 15px;
 }
-
+.chart {
+    width: 500px;
+    height: 500px;
+}
 /* Custom page header */
 .header {
   border-bottom: 1px solid #e5e5e5;
@@ -76,4 +79,5 @@ body {
   .jumbotron {
     border-bottom: 0;
   }
+
 }
