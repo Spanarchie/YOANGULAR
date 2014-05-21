@@ -1,3 +1,12 @@
+<div class="header">
+    <ul class="nav nav-pills pull-right">
+        <li class="active"><a ng-href="#">Home</a></li>
+        <li><a ng-href="#/account">MyIVMA</a></li>
+        <li><a ng-href="#/report">Report</a></li>
+    </ul>
+    <h3 class="text-muted">YOANGULAR</h3>
+</div>
+
 <div class="todo-wrapper" ng-controller="TodoCtrl">
     <h2>You've got <span class="emphasis">{{getTotalTodos()}}</span> things to do</h2>
     <ul>
@@ -12,4 +21,9 @@
     </form>
 
     <button class="clear-btn" ng-click="clearCompleted()">Clear completed</button>
+</div>
+
+
+<div class="footer">
+    <p><span class="glyphicon glyphicon-heart"></span> from the IVMA team</p>
 </div>
