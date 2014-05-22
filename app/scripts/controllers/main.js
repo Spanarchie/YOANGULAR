@@ -9,8 +9,8 @@ angular.module('workflowApp')
     ];
   });
 
-function TodoCtrl($scope) {
-
+angular.module('workflowApp')
+	.controller('TodoCtrl', function ($scope) {
 	$scope.todos = [
 		{text:'Learn AngularJS', done:false},
 		{text: 'Build an app', done:false}
@@ -25,9 +25,10 @@ function TodoCtrl($scope) {
 		$scope.formTodoText = '';
 	};
 
-	$scope.clearCompleted = function () {
-		$scope.todos = _.filter($scope.todos, function(todo){
-			return !todo.done;
-		});
-	};
-}
+//	$scope.clearCompleted = function () {
+//		$scope.todos = _.filter($scope.todos, function(todo){
+//			return !todo.done;
+//		});
+//	};
+
+});

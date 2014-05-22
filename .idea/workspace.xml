@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bef3642-5686-4f96-b22e-f58222cfab6c" name="Default" comment="">
+    <list default="true" id="9bef3642-5686-4f96-b22e-f58222cfab6c" name="Default" comment="Updated and added table listing.">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/scripts/controllers/reportCtrl.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/account.html" afterPath="$PROJECT_DIR$/app/views/account.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/main.html" afterPath="$PROJECT_DIR$/app/views/main.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/main.css" afterPath="$PROJECT_DIR$/app/styles/main.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/scripts/controllers/main.js" afterPath="$PROJECT_DIR$/app/scripts/controllers/main.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/protractor.conf.js" afterPath="$PROJECT_DIR$/protractor.conf.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/report.html" afterPath="$PROJECT_DIR$/app/views/report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="YOANGULAR.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,75 +32,302 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="report.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/report.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-15.958333" vertical-offset="22" max-vertical-offset="525">
-              <caret line="27" column="68" selection-start-line="27" selection-start-column="68" selection-end-line="27" selection-end-column="68" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="npm-debug.log" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/npm-debug.log">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="1020">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="login.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/login.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.125" vertical-offset="63" max-vertical-offset="510">
-              <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding>
-                <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="account.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/account.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="270">
-              <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/views/main.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.1111112" vertical-offset="0" max-vertical-offset="630">
-              <caret line="34" column="66" selection-start-line="34" selection-start-column="66" selection-end-line="34" selection-end-column="66" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.2083335" vertical-offset="286" max-vertical-offset="1050">
-              <caret line="29" column="83" selection-start-line="29" selection-start-column="83" selection-end-line="29" selection-end-column="83" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
-              <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+              <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/styles/main.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1410">
+              <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/account.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.3152174" vertical-offset="16145" max-vertical-offset="16605">
+              <caret line="1086" column="7" selection-start-line="1086" selection-start-column="7" selection-end-line="1086" selection-end-column="7" />
+              <folding>
+                <marker date="1400773711000" expanded="true" signature="286:13786" placeholder="[...]" />
+                <marker date="1400773711000" expanded="true" signature="290:339" placeholder="{&quot;name&quot;: 'WORLD'...}" />
+                <marker date="1400773711000" expanded="true" signature="341:403" placeholder="{&quot;name&quot;: 'More developed regions'...}" />
+                <marker date="1400773711000" expanded="true" signature="405:467" placeholder="{&quot;name&quot;: 'Less developed regions'...}" />
+                <marker date="1400773711000" expanded="true" signature="469:533" placeholder="{&quot;name&quot;: 'Least developed countries'...}" />
+                <marker date="1400773711000" expanded="true" signature="535:634" placeholder="{&quot;name&quot;: 'Less developed regions, excluding least developed countries'...}" />
+                <marker date="1400773711000" expanded="true" signature="636:715" placeholder="{&quot;name&quot;: 'Less developed regions, excluding China'...}" />
+                <marker date="1400773711000" expanded="true" signature="717:774" placeholder="{&quot;name&quot;: 'Sub-Saharan Africa'...}" />
+                <marker date="1400773711000" expanded="true" signature="776:822" placeholder="{&quot;name&quot;: 'AFRICA'...}" />
+                <marker date="1400773711000" expanded="true" signature="824:877" placeholder="{&quot;name&quot;: 'Eastern Africa'...}" />
+                <marker date="1400773711000" expanded="true" signature="879:923" placeholder="{&quot;name&quot;: 'Burundi'...}" />
+                <marker date="1400773711000" expanded="true" signature="925:968" placeholder="{&quot;name&quot;: 'Comoros'...}" />
+                <marker date="1400773711000" expanded="true" signature="970:1014" placeholder="{&quot;name&quot;: 'Djibouti'...}" />
+                <marker date="1400773711000" expanded="true" signature="1016:1060" placeholder="{&quot;name&quot;: 'Eritrea'...}" />
+                <marker date="1400773711000" expanded="true" signature="1062:1108" placeholder="{&quot;name&quot;: 'Ethiopia'...}" />
+                <marker date="1400773711000" expanded="true" signature="1110:1153" placeholder="{&quot;name&quot;: 'Kenya'...}" />
+                <marker date="1400773711000" expanded="true" signature="1155:1203" placeholder="{&quot;name&quot;: 'Madagascar'...}" />
+                <marker date="1400773711000" expanded="true" signature="1205:1249" placeholder="{&quot;name&quot;: 'Malawi'...}" />
+                <marker date="1400773711000" expanded="true" signature="1251:1297" placeholder="{&quot;name&quot;: 'Mauritius'...}" />
+                <marker date="1400773711000" expanded="true" signature="1299:1342" placeholder="{&quot;name&quot;: 'Mayotte'...}" />
+                <marker date="1400773711000" expanded="true" signature="1344:1392" placeholder="{&quot;name&quot;: 'Mozambique'...}" />
+                <marker date="1400773711000" expanded="true" signature="1394:1437" placeholder="{&quot;name&quot;: 'Réunion'...}" />
+                <marker date="1400773711000" expanded="true" signature="1439:1483" placeholder="{&quot;name&quot;: 'Rwanda'...}" />
+                <marker date="1400773711000" expanded="true" signature="1485:1530" placeholder="{&quot;name&quot;: 'Seychelles'...}" />
+                <marker date="1400773711000" expanded="true" signature="1532:1576" placeholder="{&quot;name&quot;: 'Somalia'...}" />
+                <marker date="1400773711000" expanded="true" signature="1578:1626" placeholder="{&quot;name&quot;: 'South Sudan'...}" />
+                <marker date="1400773711000" expanded="true" signature="1628:1672" placeholder="{&quot;name&quot;: 'Uganda'...}" />
+                <marker date="1400773711000" expanded="true" signature="1674:1739" placeholder="{&quot;name&quot;: 'United Republic of Tanzania'...}" />
+                <marker date="1400773711000" expanded="true" signature="1741:1785" placeholder="{&quot;name&quot;: 'Zambia'...}" />
+                <marker date="1400773711000" expanded="true" signature="1787:1833" placeholder="{&quot;name&quot;: 'Zimbabwe'...}" />
+                <marker date="1400773711000" expanded="true" signature="1835:1887" placeholder="{&quot;name&quot;: 'Middle Africa'...}" />
+                <marker date="1400773711000" expanded="true" signature="1889:1933" placeholder="{&quot;name&quot;: 'Angola'...}" />
+                <marker date="1400773711000" expanded="true" signature="1935:1981" placeholder="{&quot;name&quot;: 'Cameroon'...}" />
+                <marker date="1400773711000" expanded="true" signature="1983:2044" placeholder="{&quot;name&quot;: 'Central African Republic'...}" />
+                <marker date="1400773711000" expanded="true" signature="2046:2088" placeholder="{&quot;name&quot;: 'Chad'...}" />
+                <marker date="1400773711000" expanded="true" signature="2090:2132" placeholder="{&quot;name&quot;: 'Congo'...}" />
+                <marker date="1400773711000" expanded="true" signature="2134:2204" placeholder="{&quot;name&quot;: 'Democratic Republic of the Congo'...}" />
+                <marker date="1400773711000" expanded="true" signature="2206:2259" placeholder="{&quot;name&quot;: 'Equatorial Guinea'...}" />
+                <marker date="1400773711000" expanded="true" signature="2261:2303" placeholder="{&quot;name&quot;: 'Gabon'...}" />
+                <marker date="1400773711000" expanded="true" signature="2305:2362" placeholder="{&quot;name&quot;: 'Sao Tome and Principe'...}" />
+                <marker date="1400773711000" expanded="true" signature="2364:2418" placeholder="{&quot;name&quot;: 'Northern Africa'...}" />
+                <marker date="1400773711000" expanded="true" signature="2420:2465" placeholder="{&quot;name&quot;: 'Algeria'...}" />
+                <marker date="1400773711000" expanded="true" signature="2467:2510" placeholder="{&quot;name&quot;: 'Egypt'...}" />
+                <marker date="1400773711000" expanded="true" signature="2512:2554" placeholder="{&quot;name&quot;: 'Libya'...}" />
+                <marker date="1400773711000" expanded="true" signature="2556:2601" placeholder="{&quot;name&quot;: 'Morocco'...}" />
+                <marker date="1400773711000" expanded="true" signature="2603:2646" placeholder="{&quot;name&quot;: 'Sudan'...}" />
+                <marker date="1400773711000" expanded="true" signature="2648:2693" placeholder="{&quot;name&quot;: 'Tunisia'...}" />
+                <marker date="1400773711000" expanded="true" signature="2695:2745" placeholder="{&quot;name&quot;: 'Western Sahara'...}" />
+                <marker date="1400773711000" expanded="true" signature="2747:2800" placeholder="{&quot;name&quot;: 'Southern Africa'...}" />
+                <marker date="1400773711000" expanded="true" signature="2802:2847" placeholder="{&quot;name&quot;: 'Botswana'...}" />
+                <marker date="1400773711000" expanded="true" signature="2849:2893" placeholder="{&quot;name&quot;: 'Lesotho'...}" />
+                <marker date="1400773711000" expanded="true" signature="2895:2939" placeholder="{&quot;name&quot;: 'Namibia'...}" />
+                <marker date="1400773711000" expanded="true" signature="2941:2991" placeholder="{&quot;name&quot;: 'South Africa'...}" />
+                <marker date="1400773711000" expanded="true" signature="2993:3039" placeholder="{&quot;name&quot;: 'Swaziland'...}" />
+                <marker date="1400773711000" expanded="true" signature="3041:3094" placeholder="{&quot;name&quot;: 'Western Africa'...}" />
+                <marker date="1400773711000" expanded="true" signature="3096:3138" placeholder="{&quot;name&quot;: 'Benin'...}" />
+                <marker date="1400773711000" expanded="true" signature="3140:3190" placeholder="{&quot;name&quot;: 'Burkina Faso'...}" />
+                <marker date="1400773711000" expanded="true" signature="3192:3238" placeholder="{&quot;name&quot;: 'Cape Verde'...}" />
+                <marker date="1400773711000" expanded="true" signature="3240:3290" placeholder="{&quot;name&quot;: 'Côte dIvoire'...}" />
+                <marker date="1400773711000" expanded="true" signature="3292:3335" placeholder="{&quot;name&quot;: 'Gambia'...}" />
+                <marker date="1400773711000" expanded="true" signature="3337:3380" placeholder="{&quot;name&quot;: 'Ghana'...}" />
+                <marker date="1400773711000" expanded="true" signature="3382:3426" placeholder="{&quot;name&quot;: 'Guinea'...}" />
+                <marker date="1400773711000" expanded="true" signature="3428:3478" placeholder="{&quot;name&quot;: 'Guinea-Bissau'...}" />
+                <marker date="1400773711000" expanded="true" signature="3480:3524" placeholder="{&quot;name&quot;: 'Liberia'...}" />
+                <marker date="1400773711000" expanded="true" signature="3526:3568" placeholder="{&quot;name&quot;: 'Mali'...}" />
+                <marker date="1400773711000" expanded="true" signature="3570:3617" placeholder="{&quot;name&quot;: 'Mauritania'...}" />
+                <marker date="1400773711000" expanded="true" signature="3619:3662" placeholder="{&quot;name&quot;: 'Niger'...}" />
+                <marker date="1400773711000" expanded="true" signature="3664:3710" placeholder="{&quot;name&quot;: 'Nigeria'...}" />
+                <marker date="1400773711000" expanded="true" signature="3712:3758" placeholder="{&quot;name&quot;: 'Saint Helena'...}" />
+                <marker date="1400773711000" expanded="true" signature="3760:3805" placeholder="{&quot;name&quot;: 'Senegal'...}" />
+                <marker date="1400773711000" expanded="true" signature="3807:3856" placeholder="{&quot;name&quot;: 'Sierra Leone'...}" />
+                <marker date="1400773711000" expanded="true" signature="3858:3899" placeholder="{&quot;name&quot;: 'Togo'...}" />
+                <marker date="1400773711000" expanded="true" signature="3901:3945" placeholder="{&quot;name&quot;: 'ASIA'...}" />
+                <marker date="1400773711000" expanded="true" signature="3947:3999" placeholder="{&quot;name&quot;: 'Eastern Asia'...}" />
+                <marker date="1400773711000" expanded="true" signature="4001:4046" placeholder="{&quot;name&quot;: 'China'...}" />
+                <marker date="1400773711000" expanded="true" signature="4048:4105" placeholder="{&quot;name&quot;: 'China, Hong Kong SAR'...}" />
+                <marker date="1400773711000" expanded="true" signature="4107:4159" placeholder="{&quot;name&quot;: 'China, Macao SAR'...}" />
+                <marker date="1400773711000" expanded="true" signature="4161:4229" placeholder="{&quot;name&quot;: 'Dem. Peoples Republic of Korea'...}" />
+                <marker date="1400773711000" expanded="true" signature="4231:4275" placeholder="{&quot;name&quot;: 'Japan'...}" />
+                <marker date="1400773711000" expanded="true" signature="4277:4322" placeholder="{&quot;name&quot;: 'Mongolia'...}" />
+                <marker date="1400773711000" expanded="true" signature="4324:4379" placeholder="{&quot;name&quot;: 'Republic of Korea'...}" />
+                <marker date="1400773711000" expanded="true" signature="4381:4444" placeholder="{&quot;name&quot;: 'Other non-specified areas'...}" />
+                <marker date="1400773711000" expanded="true" signature="4446:4504" placeholder="{&quot;name&quot;: 'South-Central Asia'...}" />
+                <marker date="1400773711000" expanded="true" signature="4506:4556" placeholder="{&quot;name&quot;: 'Central Asia'...}" />
+                <marker date="1400773711000" expanded="true" signature="4558:4606" placeholder="{&quot;name&quot;: 'Kazakhstan'...}" />
+                <marker date="1400773711000" expanded="true" signature="4608:4655" placeholder="{&quot;name&quot;: 'Kyrgyzstan'...}" />
+                <marker date="1400773711000" expanded="true" signature="4657:4704" placeholder="{&quot;name&quot;: 'Tajikistan'...}" />
+                <marker date="1400773711000" expanded="true" signature="4706:4755" placeholder="{&quot;name&quot;: 'Turkmenistan'...}" />
+                <marker date="1400773711000" expanded="true" signature="4757:4805" placeholder="{&quot;name&quot;: 'Uzbekistan'...}" />
+                <marker date="1400773711000" expanded="true" signature="4807:4860" placeholder="{&quot;name&quot;: 'Southern Asia'...}" />
+                <marker date="1400773711000" expanded="true" signature="4862:4911" placeholder="{&quot;name&quot;: 'Afghanistan'...}" />
+                <marker date="1400773711000" expanded="true" signature="4913:4962" placeholder="{&quot;name&quot;: 'Bangladesh'...}" />
+                <marker date="1400773711000" expanded="true" signature="4964:5006" placeholder="{&quot;name&quot;: 'Bhutan'...}" />
+                <marker date="1400773711000" expanded="true" signature="5008:5053" placeholder="{&quot;name&quot;: 'India'...}" />
+                <marker date="1400773711000" expanded="true" signature="5055:5119" placeholder="{&quot;name&quot;: 'Iran (Islamic Republic of)'...}" />
+                <marker date="1400773711000" expanded="true" signature="5121:5165" placeholder="{&quot;name&quot;: 'Maldives'...}" />
+                <marker date="1400773711000" expanded="true" signature="5167:5210" placeholder="{&quot;name&quot;: 'Nepal'...}" />
+                <marker date="1400773711000" expanded="true" signature="5212:5259" placeholder="{&quot;name&quot;: 'Pakistan'...}" />
+                <marker date="1400773711000" expanded="true" signature="5261:5308" placeholder="{&quot;name&quot;: 'Sri Lanka'...}" />
+                <marker date="1400773711000" expanded="true" signature="5310:5367" placeholder="{&quot;name&quot;: 'South-Eastern Asia'...}" />
+                <marker date="1400773711000" expanded="true" signature="5369:5422" placeholder="{&quot;name&quot;: 'Brunei Darussalam'...}" />
+                <marker date="1400773711000" expanded="true" signature="5424:5470" placeholder="{&quot;name&quot;: 'Cambodia'...}" />
+                <marker date="1400773711000" expanded="true" signature="5472:5520" placeholder="{&quot;name&quot;: 'Indonesia'...}" />
+                <marker date="1400773711000" expanded="true" signature="5522:5590" placeholder="{&quot;name&quot;: 'Lao Peoples Democratic Republic'...}" />
+                <marker date="1400773711000" expanded="true" signature="5592:5638" placeholder="{&quot;name&quot;: 'Malaysia'...}" />
+                <marker date="1400773711000" expanded="true" signature="5640:5685" placeholder="{&quot;name&quot;: 'Myanmar'...}" />
+                <marker date="1400773711000" expanded="true" signature="5687:5736" placeholder="{&quot;name&quot;: 'Philippines'...}" />
+                <marker date="1400773711000" expanded="true" signature="5738:5784" placeholder="{&quot;name&quot;: 'Singapore'...}" />
+                <marker date="1400773711000" expanded="true" signature="5786:5832" placeholder="{&quot;name&quot;: 'Thailand'...}" />
+                <marker date="1400773711000" expanded="true" signature="5834:5882" placeholder="{&quot;name&quot;: 'Timor-Leste'...}" />
+                <marker date="1400773711000" expanded="true" signature="5884:5930" placeholder="{&quot;name&quot;: 'Viet Nam'...}" />
+                <marker date="1400773711000" expanded="true" signature="5932:5983" placeholder="{&quot;name&quot;: 'Western Asia'...}" />
+                <marker date="1400773711000" expanded="true" signature="5985:6029" placeholder="{&quot;name&quot;: 'Armenia'...}" />
+                <marker date="1400773711000" expanded="true" signature="6031:6078" placeholder="{&quot;name&quot;: 'Azerbaijan'...}" />
+                <marker date="1400773711000" expanded="true" signature="6080:6124" placeholder="{&quot;name&quot;: 'Bahrain'...}" />
+                <marker date="1400773711000" expanded="true" signature="6126:6169" placeholder="{&quot;name&quot;: 'Cyprus'...}" />
+                <marker date="1400773711000" expanded="true" signature="6171:6215" placeholder="{&quot;name&quot;: 'Georgia'...}" />
+                <marker date="1400773711000" expanded="true" signature="6217:6259" placeholder="{&quot;name&quot;: 'Iraq'...}" />
+                <marker date="1400773711000" expanded="true" signature="6261:6304" placeholder="{&quot;name&quot;: 'Israel'...}" />
+                <marker date="1400773711000" expanded="true" signature="6306:6349" placeholder="{&quot;name&quot;: 'Jordan'...}" />
+                <marker date="1400773711000" expanded="true" signature="6351:6394" placeholder="{&quot;name&quot;: 'Kuwait'...}" />
+                <marker date="1400773711000" expanded="true" signature="6396:6440" placeholder="{&quot;name&quot;: 'Lebanon'...}" />
+                <marker date="1400773711000" expanded="true" signature="6442:6483" placeholder="{&quot;name&quot;: 'Oman'...}" />
+                <marker date="1400773711000" expanded="true" signature="6485:6527" placeholder="{&quot;name&quot;: 'Qatar'...}" />
+                <marker date="1400773711000" expanded="true" signature="6529:6579" placeholder="{&quot;name&quot;: 'Saudi Arabia'...}" />
+                <marker date="1400773711000" expanded="true" signature="6581:6636" placeholder="{&quot;name&quot;: 'State of Palestine'...}" />
+                <marker date="1400773711000" expanded="true" signature="6638:6696" placeholder="{&quot;name&quot;: 'Syrian Arab Republic'...}" />
+                <marker date="1400773711000" expanded="true" signature="6698:6742" placeholder="{&quot;name&quot;: 'Turkey'...}" />
+                <marker date="1400773711000" expanded="true" signature="6744:6801" placeholder="{&quot;name&quot;: 'United Arab Emirates'...}" />
+                <marker date="1400773711000" expanded="true" signature="6803:6846" placeholder="{&quot;name&quot;: 'Yemen'...}" />
+                <marker date="1400773711000" expanded="true" signature="6848:6893" placeholder="{&quot;name&quot;: 'EUROPE'...}" />
+                <marker date="1400773711000" expanded="true" signature="6895:6948" placeholder="{&quot;name&quot;: 'Eastern Europe'...}" />
+                <marker date="1400773711000" expanded="true" signature="6950:6994" placeholder="{&quot;name&quot;: 'Belarus'...}" />
+                <marker date="1400773711000" expanded="true" signature="6996:7041" placeholder="{&quot;name&quot;: 'Bulgaria'...}" />
+                <marker date="1400773711000" expanded="true" signature="7043:7095" placeholder="{&quot;name&quot;: 'Czech Republic'...}" />
+                <marker date="1400773711000" expanded="true" signature="7097:7142" placeholder="{&quot;name&quot;: 'Hungary'...}" />
+                <marker date="1400773711000" expanded="true" signature="7144:7188" placeholder="{&quot;name&quot;: 'Poland'...}" />
+                <marker date="1400773711000" expanded="true" signature="7190:7246" placeholder="{&quot;name&quot;: 'Republic of Moldova'...}" />
+                <marker date="1400773711000" expanded="true" signature="7248:7293" placeholder="{&quot;name&quot;: 'Romania'...}" />
+                <marker date="1400773711000" expanded="true" signature="7295:7352" placeholder="{&quot;name&quot;: 'Russian Federation'...}" />
+                <marker date="1400773711000" expanded="true" signature="7354:7399" placeholder="{&quot;name&quot;: 'Slovakia'...}" />
+                <marker date="1400773711000" expanded="true" signature="7401:7446" placeholder="{&quot;name&quot;: 'Ukraine'...}" />
+                <marker date="1400773711000" expanded="true" signature="7448:7501" placeholder="{&quot;name&quot;: 'Northern Europe'...}" />
+                <marker date="1400773711000" expanded="true" signature="7503:7554" placeholder="{&quot;name&quot;: 'Channel Islands'...}" />
+                <marker date="1400773711000" expanded="true" signature="7556:7600" placeholder="{&quot;name&quot;: 'Denmark'...}" />
+                <marker date="1400773711000" expanded="true" signature="7602:7646" placeholder="{&quot;name&quot;: 'Estonia'...}" />
+                <marker date="1400773711000" expanded="true" signature="7648:7697" placeholder="{&quot;name&quot;: 'Faeroe Islands'...}" />
+                <marker date="1400773711000" expanded="true" signature="7699:7743" placeholder="{&quot;name&quot;: 'Finland'...}" />
+                <marker date="1400773711000" expanded="true" signature="7745:7788" placeholder="{&quot;name&quot;: 'Iceland'...}" />
+                <marker date="1400773711000" expanded="true" signature="7790:7834" placeholder="{&quot;name&quot;: 'Ireland'...}" />
+                <marker date="1400773711000" expanded="true" signature="7836:7882" placeholder="{&quot;name&quot;: 'Isle of Man'...}" />
+                <marker date="1400773711000" expanded="true" signature="7884:7927" placeholder="{&quot;name&quot;: 'Latvia'...}" />
+                <marker date="1400773711000" expanded="true" signature="7929:7975" placeholder="{&quot;name&quot;: 'Lithuania'...}" />
+                <marker date="1400773711000" expanded="true" signature="7977:8020" placeholder="{&quot;name&quot;: 'Norway'...}" />
+                <marker date="1400773711000" expanded="true" signature="8022:8065" placeholder="{&quot;name&quot;: 'Sweden'...}" />
+                <marker date="1400773711000" expanded="true" signature="8067:8119" placeholder="{&quot;name&quot;: 'United Kingdom'...}" />
+                <marker date="1400773711000" expanded="true" signature="8121:8175" placeholder="{&quot;name&quot;: 'Southern Europe'...}" />
+                <marker date="1400773711000" expanded="true" signature="8177:8221" placeholder="{&quot;name&quot;: 'Albania'...}" />
+                <marker date="1400773711000" expanded="true" signature="8223:8265" placeholder="{&quot;name&quot;: 'Andorra'...}" />
+                <marker date="1400773711000" expanded="true" signature="8267:8326" placeholder="{&quot;name&quot;: 'Bosnia and Herzegovina'...}" />
+                <marker date="1400773711000" expanded="true" signature="8328:8372" placeholder="{&quot;name&quot;: 'Croatia'...}" />
+                <marker date="1400773711000" expanded="true" signature="8374:8418" placeholder="{&quot;name&quot;: 'Gibraltar'...}" />
+                <marker date="1400773711000" expanded="true" signature="8420:8464" placeholder="{&quot;name&quot;: 'Greece'...}" />
+                <marker date="1400773711000" expanded="true" signature="8466:8508" placeholder="{&quot;name&quot;: 'Holy See'...}" />
+                <marker date="1400773711000" expanded="true" signature="8510:8553" placeholder="{&quot;name&quot;: 'Italy'...}" />
+                <marker date="1400773711000" expanded="true" signature="8555:8596" placeholder="{&quot;name&quot;: 'Malta'...}" />
+                <marker date="1400773711000" expanded="true" signature="8598:8644" placeholder="{&quot;name&quot;: 'Montenegro'...}" />
+                <marker date="1400773711000" expanded="true" signature="8646:8692" placeholder="{&quot;name&quot;: 'Portugal'...}" />
+                <marker date="1400773711000" expanded="true" signature="8694:8739" placeholder="{&quot;name&quot;: 'San Marino'...}" />
+                <marker date="1400773711000" expanded="true" signature="8741:8784" placeholder="{&quot;name&quot;: 'Serbia'...}" />
+                <marker date="1400773711000" expanded="true" signature="8786:8831" placeholder="{&quot;name&quot;: 'Slovenia'...}" />
+                <marker date="1400773711000" expanded="true" signature="8833:8876" placeholder="{&quot;name&quot;: 'Spain'...}" />
+                <marker date="1400773711000" expanded="true" signature="8878:8929" placeholder="{&quot;name&quot;: 'TFYR Macedonia'...}" />
+                <marker date="1400773711000" expanded="true" signature="8931:8984" placeholder="{&quot;name&quot;: 'Western Europe'...}" />
+                <marker date="1400773711000" expanded="true" signature="8986:9030" placeholder="{&quot;name&quot;: 'Austria'...}" />
+                <marker date="1400773711000" expanded="true" signature="9032:9077" placeholder="{&quot;name&quot;: 'Belgium'...}" />
+                <marker date="1400773711000" expanded="true" signature="9079:9123" placeholder="{&quot;name&quot;: 'France'...}" />
+                <marker date="1400773711000" expanded="true" signature="9125:9170" placeholder="{&quot;name&quot;: 'Germany'...}" />
+                <marker date="1400773711000" expanded="true" signature="9172:9220" placeholder="{&quot;name&quot;: 'Liechtenstein'...}" />
+                <marker date="1400773711000" expanded="true" signature="9222:9268" placeholder="{&quot;name&quot;: 'Luxembourg'...}" />
+                <marker date="1400773711000" expanded="true" signature="9270:9311" placeholder="{&quot;name&quot;: 'Monaco'...}" />
+                <marker date="1400773711000" expanded="true" signature="9313:9362" placeholder="{&quot;name&quot;: 'Netherlands'...}" />
+                <marker date="1400773711000" expanded="true" signature="9364:9412" placeholder="{&quot;name&quot;: 'Switzerland'...}" />
+                <marker date="1400773711000" expanded="true" signature="9414:9484" placeholder="{&quot;name&quot;: 'LATIN AMERICA AND THE CARIBBEAN'...}" />
+                <marker date="1400773711000" expanded="true" signature="9486:9533" placeholder="{&quot;name&quot;: 'Caribbean'...}" />
+                <marker date="1400773711000" expanded="true" signature="9535:9578" placeholder="{&quot;name&quot;: 'Anguilla'...}" />
+                <marker date="1400773711000" expanded="true" signature="9580:9634" placeholder="{&quot;name&quot;: 'Antigua and Barbuda'...}" />
+                <marker date="1400773711000" expanded="true" signature="9636:9677" placeholder="{&quot;name&quot;: 'Aruba'...}" />
+                <marker date="1400773711000" expanded="true" signature="9679:9722" placeholder="{&quot;name&quot;: 'Bahamas'...}" />
+                <marker date="1400773711000" expanded="true" signature="9724:9768" placeholder="{&quot;name&quot;: 'Barbados'...}" />
+                <marker date="1400773711000" expanded="true" signature="9770:9827" placeholder="{&quot;name&quot;: 'British Virgin Islands'...}" />
+                <marker date="1400773711000" expanded="true" signature="9829:9885" placeholder="{&quot;name&quot;: 'Caribbean Netherlands'...}" />
+                <marker date="1400773711000" expanded="true" signature="9887:9936" placeholder="{&quot;name&quot;: 'Cayman Islands'...}" />
+                <marker date="1400773711000" expanded="true" signature="9938:9980" placeholder="{&quot;name&quot;: 'Cuba'...}" />
+                <marker date="1400773711000" expanded="true" signature="9982:10025" placeholder="{&quot;name&quot;: 'Curaçao'...}" />
+                <marker date="1400773711000" expanded="true" signature="10027:10070" placeholder="{&quot;name&quot;: 'Dominica'...}" />
+                <marker date="1400773711000" expanded="true" signature="10072:10128" placeholder="{&quot;name&quot;: 'Dominican Republic'...}" />
+                <marker date="1400773711000" expanded="true" signature="10130:10173" placeholder="{&quot;name&quot;: 'Grenada'...}" />
+                <marker date="1400773711000" expanded="true" signature="10175:10221" placeholder="{&quot;name&quot;: 'Guadeloupe'...}" />
+                <marker date="1400773711000" expanded="true" signature="10223:10265" placeholder="{&quot;name&quot;: 'Haiti'...}" />
+                <marker date="1400773711000" expanded="true" signature="10267:10311" placeholder="{&quot;name&quot;: 'Jamaica'...}" />
+                <marker date="1400773711000" expanded="true" signature="10313:10359" placeholder="{&quot;name&quot;: 'Martinique'...}" />
+                <marker date="1400773711000" expanded="true" signature="10361:10405" placeholder="{&quot;name&quot;: 'Montserrat'...}" />
+                <marker date="1400773711000" expanded="true" signature="10407:10455" placeholder="{&quot;name&quot;: 'Puerto Rico'...}" />
+                <marker date="1400773711000" expanded="true" signature="10457:10513" placeholder="{&quot;name&quot;: 'Saint Kitts and Nevis'...}" />
+                <marker date="1400773711000" expanded="true" signature="10515:10562" placeholder="{&quot;name&quot;: 'Saint Lucia'...}" />
+                <marker date="1400773711000" expanded="true" signature="10564:10632" placeholder="{&quot;name&quot;: 'Saint Vincent and the Grenadines'...}" />
+                <marker date="1400773711000" expanded="true" signature="10634:10694" placeholder="{&quot;name&quot;: 'Sint Maarten (Dutch part)'...}" />
+                <marker date="1400773711000" expanded="true" signature="10696:10752" placeholder="{&quot;name&quot;: 'Trinidad and Tobago'...}" />
+                <marker date="1400773711000" expanded="true" signature="10754:10813" placeholder="{&quot;name&quot;: 'Turks and Caicos Islands'...}" />
+                <marker date="1400773711000" expanded="true" signature="10815:10879" placeholder="{&quot;name&quot;: 'United States Virgin Islands'...}" />
+                <marker date="1400773711000" expanded="true" signature="10881:10935" placeholder="{&quot;name&quot;: 'Central America'...}" />
+                <marker date="1400773711000" expanded="true" signature="10937:10979" placeholder="{&quot;name&quot;: 'Belize'...}" />
+                <marker date="1400773711000" expanded="true" signature="10981:11028" placeholder="{&quot;name&quot;: 'Costa Rica'...}" />
+                <marker date="1400773711000" expanded="true" signature="11030:11078" placeholder="{&quot;name&quot;: 'El Salvador'...}" />
+                <marker date="1400773711000" expanded="true" signature="11080:11127" placeholder="{&quot;name&quot;: 'Guatemala'...}" />
+                <marker date="1400773711000" expanded="true" signature="11129:11174" placeholder="{&quot;name&quot;: 'Honduras'...}" />
+                <marker date="1400773711000" expanded="true" signature="11176:11221" placeholder="{&quot;name&quot;: 'Mexico'...}" />
+                <marker date="1400773711000" expanded="true" signature="11223:11269" placeholder="{&quot;name&quot;: 'Nicaragua'...}" />
+                <marker date="1400773711000" expanded="true" signature="11271:11314" placeholder="{&quot;name&quot;: 'Panama'...}" />
+                <marker date="1400773711000" expanded="true" signature="11316:11368" placeholder="{&quot;name&quot;: 'South America'...}" />
+                <marker date="1400773711000" expanded="true" signature="11370:11417" placeholder="{&quot;name&quot;: 'Argentina'...}" />
+                <marker date="1400773711000" expanded="true" signature="11419:11489" placeholder="{&quot;name&quot;: 'Bolivia (Plurinational State of)'...}" />
+                <marker date="1400773711000" expanded="true" signature="11491:11536" placeholder="{&quot;name&quot;: 'Brazil'...}" />
+                <marker date="1400773711000" expanded="true" signature="11538:11581" placeholder="{&quot;name&quot;: 'Chile'...}" />
+                <marker date="1400773711000" expanded="true" signature="11583:11629" placeholder="{&quot;name&quot;: 'Colombia'...}" />
+                <marker date="1400773711000" expanded="true" signature="11631:11676" placeholder="{&quot;name&quot;: 'Ecuador'...}" />
+                <marker date="1400773711000" expanded="true" signature="11678:11739" placeholder="{&quot;name&quot;: 'Falkland Islands (Malvinas)'...}" />
+                <marker date="1400773711000" expanded="true" signature="11741:11790" placeholder="{&quot;name&quot;: 'French Guiana'...}" />
+                <marker date="1400773711000" expanded="true" signature="11792:11834" placeholder="{&quot;name&quot;: 'Guyana'...}" />
+                <marker date="1400773711000" expanded="true" signature="11836:11881" placeholder="{&quot;name&quot;: 'Paraguay'...}" />
+                <marker date="1400773711000" expanded="true" signature="11883:11925" placeholder="{&quot;name&quot;: 'Peru'...}" />
+                <marker date="1400773711000" expanded="true" signature="11927:11971" placeholder="{&quot;name&quot;: 'Suriname'...}" />
+                <marker date="1400773711000" expanded="true" signature="11973:12017" placeholder="{&quot;name&quot;: 'Uruguay'...}" />
+                <marker date="1400773711000" expanded="true" signature="12019:12091" placeholder="{&quot;name&quot;: 'Venezuela (Bolivarian Republic of)'...}" />
+                <marker date="1400773711000" expanded="true" signature="12093:12148" placeholder="{&quot;name&quot;: 'NORTHERN AMERICA'...}" />
+                <marker date="1400773711000" expanded="true" signature="12150:12192" placeholder="{&quot;name&quot;: 'Bermuda'...}" />
+                <marker date="1400773711000" expanded="true" signature="12194:12238" placeholder="{&quot;name&quot;: 'Canada'...}" />
+                <marker date="1400773711000" expanded="true" signature="12240:12284" placeholder="{&quot;name&quot;: 'Greenland'...}" />
+                <marker date="1400773711000" expanded="true" signature="12286:12345" placeholder="{&quot;name&quot;: 'Saint Pierre and Miquelon'...}" />
+                <marker date="1400773711000" expanded="true" signature="12347:12410" placeholder="{&quot;name&quot;: 'United States of America'...}" />
+                <marker date="1400773711000" expanded="true" signature="12412:12457" placeholder="{&quot;name&quot;: 'OCEANIA'...}" />
+                <marker date="1400773711000" expanded="true" signature="12459:12518" placeholder="{&quot;name&quot;: 'Australia/New Zealand'...}" />
+                <marker date="1400773711000" expanded="true" signature="12520:12567" placeholder="{&quot;name&quot;: 'Australia'...}" />
+                <marker date="1400773711000" expanded="true" signature="12569:12617" placeholder="{&quot;name&quot;: 'New Zealand'...}" />
+                <marker date="1400773711000" expanded="true" signature="12619:12665" placeholder="{&quot;name&quot;: 'Melanesia'...}" />
+                <marker date="1400773711000" expanded="true" signature="12667:12707" placeholder="{&quot;name&quot;: 'Fiji'...}" />
+                <marker date="1400773711000" expanded="true" signature="12709:12758" placeholder="{&quot;name&quot;: 'New Caledonia'...}" />
+                <marker date="1400773711000" expanded="true" signature="12760:12813" placeholder="{&quot;name&quot;: 'Papua New Guinea'...}" />
+                <marker date="1400773711000" expanded="true" signature="12815:12866" placeholder="{&quot;name&quot;: 'Solomon Islands'...}" />
+                <marker date="1400773711000" expanded="true" signature="12868:12911" placeholder="{&quot;name&quot;: 'Vanuatu'...}" />
+                <marker date="1400773711000" expanded="true" signature="12913:12959" placeholder="{&quot;name&quot;: 'Micronesia'...}" />
+                <marker date="1400773711000" expanded="true" signature="12961:13001" placeholder="{&quot;name&quot;: 'Guam'...}" />
+                <marker date="1400773711000" expanded="true" signature="13003:13046" placeholder="{&quot;name&quot;: 'Kiribati'...}" />
+                <marker date="1400773711000" expanded="true" signature="13048:13099" placeholder="{&quot;name&quot;: 'Marshall Islands'...}" />
+                <marker date="1400773711000" expanded="true" signature="13101:13164" placeholder="{&quot;name&quot;: 'Micronesia (Fed. States of)'...}" />
+                <marker date="1400773711000" expanded="true" signature="13166:13206" placeholder="{&quot;name&quot;: 'Nauru'...}" />
+                <marker date="1400773711000" expanded="true" signature="13208:13267" placeholder="{&quot;name&quot;: 'Northern Mariana Islands'...}" />
+                <marker date="1400773711000" expanded="true" signature="13269:13309" placeholder="{&quot;name&quot;: 'Palau'...}" />
+                <marker date="1400773711000" expanded="true" signature="13311:13356" placeholder="{&quot;name&quot;: 'Polynesia'...}" />
+                <marker date="1400773711000" expanded="true" signature="13358:13407" placeholder="{&quot;name&quot;: 'American Samoa'...}" />
+                <marker date="1400773711000" expanded="true" signature="13409:13456" placeholder="{&quot;name&quot;: 'Cook Islands'...}" />
+                <marker date="1400773711000" expanded="true" signature="13458:13510" placeholder="{&quot;name&quot;: 'French Polynesia'...}" />
+                <marker date="1400773711000" expanded="true" signature="13512:13550" placeholder="{&quot;name&quot;: 'Niue'...}" />
+                <marker date="1400773711000" expanded="true" signature="13552:13593" placeholder="{&quot;name&quot;: 'Samoa'...}" />
+                <marker date="1400773711000" expanded="true" signature="13595:13636" placeholder="{&quot;name&quot;: 'Tokelau'...}" />
+                <marker date="1400773711000" expanded="true" signature="13638:13679" placeholder="{&quot;name&quot;: 'Tonga'...}" />
+                <marker date="1400773711000" expanded="true" signature="13681:13722" placeholder="{&quot;name&quot;: 'Tuvalu'...}" />
+                <marker date="1400773711000" expanded="true" signature="13724:13784" placeholder="{&quot;name&quot;: 'Wallis and Futuna Islands'...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -106,7 +336,27 @@
         <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
-              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+              <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="report.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/report.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="495">
+              <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-7.1666665" vertical-offset="113" max-vertical-offset="1050">
+              <caret line="19" column="27" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -129,19 +379,20 @@
         <option value="$PROJECT_DIR$/test/spec/protractorTest.js" />
         <option value="$PROJECT_DIR$/test/E2E/protractorTest_spec.js" />
         <option value="$PROJECT_DIR$/karma.conf.js" />
-        <option value="$PROJECT_DIR$/protractor.conf.js" />
         <option value="$PROJECT_DIR$/app/scripts/controllers/auth.js" />
         <option value="$PROJECT_DIR$/app/scripts/controllers/reporter.js" />
-        <option value="$PROJECT_DIR$/app/styles/main.css" />
         <option value="$PROJECT_DIR$/app/scripts/controllers/logctrl.js" />
         <option value="$PROJECT_DIR$/bower.json" />
         <option value="$PROJECT_DIR$/app/index.html" />
-        <option value="$PROJECT_DIR$/app/scripts/app.js" />
-        <option value="$PROJECT_DIR$/app/scripts/controllers/main.js" />
         <option value="$PROJECT_DIR$/app/views/login.html" />
-        <option value="$PROJECT_DIR$/app/views/report.html" />
-        <option value="$PROJECT_DIR$/app/views/account.html" />
         <option value="$PROJECT_DIR$/app/views/main.html" />
+        <option value="$PROJECT_DIR$/protractor.conf.js" />
+        <option value="$PROJECT_DIR$/app/views/report.html" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/reportCtrl.js" />
+        <option value="$PROJECT_DIR$/app/scripts/app.js" />
+        <option value="$PROJECT_DIR$/app/styles/main.css" />
+        <option value="$PROJECT_DIR$/app/scripts/controllers/main.js" />
+        <option value="$PROJECT_DIR$/app/views/account.html" />
       </list>
     </option>
   </component>
@@ -302,8 +553,8 @@
     <data>$PROJECT_DIR$/node_modules/karma</data>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="609" />
-    <option name="y" value="72" />
+    <option name="x" value="352" />
+    <option name="y" value="94" />
     <option name="width" value="1538" />
     <option name="height" value="854" />
   </component>
@@ -397,6 +648,24 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YOANGULAR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="YOANGULAR" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="scripts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -429,7 +698,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="options.lastSelected" value="preferences.sourceCode.JavaScript" />
+    <property name="options.lastSelected" value="reference.settingsdialog.IDE.editor.colors" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -453,6 +722,14 @@
     </key>
   </component>
   <component name="RunManager" selected="Node.js.Protractor Tester">
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -463,12 +740,14 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
+    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" />
+      <option name="executablePath" />
       <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="$PROJECT_DIR$/karma.conf.js">
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
@@ -476,16 +755,6 @@
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="Chrome" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="$PROJECT_DIR$/karma.conf.js">
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="true" type="CucumberJavaScriptRunConfigurationType" factoryName="Cucumber.js">
-      <option name="cucumberJsArguments" />
-      <option name="executablePath" />
-      <option name="filePath" />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -550,49 +819,29 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="609" y="72" width="1538" height="854" extended-state="0" />
-    <editor active="false" />
+    <frame x="352" y="94" width="1538" height="854" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3503937" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984293" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.328084" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.56806284" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34947643" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32984293" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32722512" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.40052357" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24983521" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23071852" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.23071852" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39895013" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39370078" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32939634" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853404" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
     </layout>
-    <layout-to-restore>
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32853404" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.56806284" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39895013" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32984293" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
-      <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.35078534" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32939634" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24983521" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.23071852" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39370078" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -616,6 +865,70 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/views/report.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="525">
+          <caret line="27" column="68" selection-start-line="27" selection-start-column="68" selection-end-line="27" selection-end-column="68" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/npm-debug.log">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="1020">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="63" max-vertical-offset="510">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/account.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="150" max-vertical-offset="270">
+          <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="630">
+          <caret line="34" column="66" selection-start-line="34" selection-start-column="66" selection-end-line="34" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="286" max-vertical-offset="1050">
+          <caret line="29" column="83" selection-start-line="29" selection-start-column="83" selection-end-line="29" selection-end-column="83" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="480" max-vertical-offset="570">
+          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="465" max-vertical-offset="555">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/favicon.ico">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -625,10 +938,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="510">
           <caret line="14" column="15" selection-start-line="14" selection-start-column="15" selection-end-line="14" selection-end-column="15" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -695,13 +1005,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/dist/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="455">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/spec/controllers/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="480">
@@ -713,13 +1016,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="290" max-vertical-offset="675">
           <caret line="39" column="3" selection-start-line="39" selection-start-column="3" selection-end-line="39" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/protractor.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
-          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -748,13 +1044,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-1.9390244" vertical-offset="795" max-vertical-offset="4365">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/karma.conf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
-          <caret line="0" column="13" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -794,19 +1083,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/styles/main.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.7777778" vertical-offset="0" max-vertical-offset="1335">
-          <caret line="16" column="1" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bower.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.5956679" vertical-offset="0" max-vertical-offset="405">
           <caret line="11" column="33" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -815,38 +1095,11 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="570">
-          <caret line="32" column="1" selection-start-line="32" selection-start-column="1" selection-end-line="32" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.2083335" vertical-offset="286" max-vertical-offset="1050">
-          <caret line="29" column="83" selection-start-line="29" selection-start-column="83" selection-end-line="29" selection-end-column="83" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/login.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.125" vertical-offset="63" max-vertical-offset="510">
+        <state vertical-scroll-proportion="0.0" vertical-offset="63" max-vertical-offset="510">
           <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding>
-            <element signature="n#style#0;n#input#0;n#div#0;n#form#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#div#1;n#form#0;n#div#0;n#div#1;n#!!top" expanded="true" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -858,27 +1111,355 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/karma.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="390">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/protractor.conf.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="375">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/reportCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="255">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#48#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-4.0384617" vertical-offset="105" max-vertical-offset="630">
+          <caret line="14" column="6" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/report.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-15.958333" vertical-offset="22" max-vertical-offset="525">
-          <caret line="27" column="68" selection-start-line="27" selection-start-column="68" selection-end-line="27" selection-end-column="68" />
+        <state vertical-scroll-proportion="-12.5" vertical-offset="0" max-vertical-offset="495">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="555">
+          <caret line="24" column="26" selection-start-line="24" selection-start-column="26" selection-end-line="24" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1410">
+          <caret line="23" column="9" selection-start-line="23" selection-start-column="9" selection-end-line="23" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-7.1666665" vertical-offset="113" max-vertical-offset="1050">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/scripts/controllers/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="585">
+          <caret line="25" column="6" selection-start-line="25" selection-start-column="6" selection-end-line="25" selection-end-column="6" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/account.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="270">
-          <caret line="10" column="66" selection-start-line="10" selection-start-column="66" selection-end-line="10" selection-end-column="66" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/main.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1111112" vertical-offset="0" max-vertical-offset="630">
-          <caret line="34" column="66" selection-start-line="34" selection-start-column="66" selection-end-line="34" selection-end-column="66" />
-          <folding />
+        <state vertical-scroll-proportion="0.3152174" vertical-offset="16145" max-vertical-offset="16605">
+          <caret line="1086" column="7" selection-start-line="1086" selection-start-column="7" selection-end-line="1086" selection-end-column="7" />
+          <folding>
+            <marker date="1400773711000" expanded="true" signature="286:13786" placeholder="[...]" />
+            <marker date="1400773711000" expanded="true" signature="290:339" placeholder="{&quot;name&quot;: 'WORLD'...}" />
+            <marker date="1400773711000" expanded="true" signature="341:403" placeholder="{&quot;name&quot;: 'More developed regions'...}" />
+            <marker date="1400773711000" expanded="true" signature="405:467" placeholder="{&quot;name&quot;: 'Less developed regions'...}" />
+            <marker date="1400773711000" expanded="true" signature="469:533" placeholder="{&quot;name&quot;: 'Least developed countries'...}" />
+            <marker date="1400773711000" expanded="true" signature="535:634" placeholder="{&quot;name&quot;: 'Less developed regions, excluding least developed countries'...}" />
+            <marker date="1400773711000" expanded="true" signature="636:715" placeholder="{&quot;name&quot;: 'Less developed regions, excluding China'...}" />
+            <marker date="1400773711000" expanded="true" signature="717:774" placeholder="{&quot;name&quot;: 'Sub-Saharan Africa'...}" />
+            <marker date="1400773711000" expanded="true" signature="776:822" placeholder="{&quot;name&quot;: 'AFRICA'...}" />
+            <marker date="1400773711000" expanded="true" signature="824:877" placeholder="{&quot;name&quot;: 'Eastern Africa'...}" />
+            <marker date="1400773711000" expanded="true" signature="879:923" placeholder="{&quot;name&quot;: 'Burundi'...}" />
+            <marker date="1400773711000" expanded="true" signature="925:968" placeholder="{&quot;name&quot;: 'Comoros'...}" />
+            <marker date="1400773711000" expanded="true" signature="970:1014" placeholder="{&quot;name&quot;: 'Djibouti'...}" />
+            <marker date="1400773711000" expanded="true" signature="1016:1060" placeholder="{&quot;name&quot;: 'Eritrea'...}" />
+            <marker date="1400773711000" expanded="true" signature="1062:1108" placeholder="{&quot;name&quot;: 'Ethiopia'...}" />
+            <marker date="1400773711000" expanded="true" signature="1110:1153" placeholder="{&quot;name&quot;: 'Kenya'...}" />
+            <marker date="1400773711000" expanded="true" signature="1155:1203" placeholder="{&quot;name&quot;: 'Madagascar'...}" />
+            <marker date="1400773711000" expanded="true" signature="1205:1249" placeholder="{&quot;name&quot;: 'Malawi'...}" />
+            <marker date="1400773711000" expanded="true" signature="1251:1297" placeholder="{&quot;name&quot;: 'Mauritius'...}" />
+            <marker date="1400773711000" expanded="true" signature="1299:1342" placeholder="{&quot;name&quot;: 'Mayotte'...}" />
+            <marker date="1400773711000" expanded="true" signature="1344:1392" placeholder="{&quot;name&quot;: 'Mozambique'...}" />
+            <marker date="1400773711000" expanded="true" signature="1394:1437" placeholder="{&quot;name&quot;: 'Réunion'...}" />
+            <marker date="1400773711000" expanded="true" signature="1439:1483" placeholder="{&quot;name&quot;: 'Rwanda'...}" />
+            <marker date="1400773711000" expanded="true" signature="1485:1530" placeholder="{&quot;name&quot;: 'Seychelles'...}" />
+            <marker date="1400773711000" expanded="true" signature="1532:1576" placeholder="{&quot;name&quot;: 'Somalia'...}" />
+            <marker date="1400773711000" expanded="true" signature="1578:1626" placeholder="{&quot;name&quot;: 'South Sudan'...}" />
+            <marker date="1400773711000" expanded="true" signature="1628:1672" placeholder="{&quot;name&quot;: 'Uganda'...}" />
+            <marker date="1400773711000" expanded="true" signature="1674:1739" placeholder="{&quot;name&quot;: 'United Republic of Tanzania'...}" />
+            <marker date="1400773711000" expanded="true" signature="1741:1785" placeholder="{&quot;name&quot;: 'Zambia'...}" />
+            <marker date="1400773711000" expanded="true" signature="1787:1833" placeholder="{&quot;name&quot;: 'Zimbabwe'...}" />
+            <marker date="1400773711000" expanded="true" signature="1835:1887" placeholder="{&quot;name&quot;: 'Middle Africa'...}" />
+            <marker date="1400773711000" expanded="true" signature="1889:1933" placeholder="{&quot;name&quot;: 'Angola'...}" />
+            <marker date="1400773711000" expanded="true" signature="1935:1981" placeholder="{&quot;name&quot;: 'Cameroon'...}" />
+            <marker date="1400773711000" expanded="true" signature="1983:2044" placeholder="{&quot;name&quot;: 'Central African Republic'...}" />
+            <marker date="1400773711000" expanded="true" signature="2046:2088" placeholder="{&quot;name&quot;: 'Chad'...}" />
+            <marker date="1400773711000" expanded="true" signature="2090:2132" placeholder="{&quot;name&quot;: 'Congo'...}" />
+            <marker date="1400773711000" expanded="true" signature="2134:2204" placeholder="{&quot;name&quot;: 'Democratic Republic of the Congo'...}" />
+            <marker date="1400773711000" expanded="true" signature="2206:2259" placeholder="{&quot;name&quot;: 'Equatorial Guinea'...}" />
+            <marker date="1400773711000" expanded="true" signature="2261:2303" placeholder="{&quot;name&quot;: 'Gabon'...}" />
+            <marker date="1400773711000" expanded="true" signature="2305:2362" placeholder="{&quot;name&quot;: 'Sao Tome and Principe'...}" />
+            <marker date="1400773711000" expanded="true" signature="2364:2418" placeholder="{&quot;name&quot;: 'Northern Africa'...}" />
+            <marker date="1400773711000" expanded="true" signature="2420:2465" placeholder="{&quot;name&quot;: 'Algeria'...}" />
+            <marker date="1400773711000" expanded="true" signature="2467:2510" placeholder="{&quot;name&quot;: 'Egypt'...}" />
+            <marker date="1400773711000" expanded="true" signature="2512:2554" placeholder="{&quot;name&quot;: 'Libya'...}" />
+            <marker date="1400773711000" expanded="true" signature="2556:2601" placeholder="{&quot;name&quot;: 'Morocco'...}" />
+            <marker date="1400773711000" expanded="true" signature="2603:2646" placeholder="{&quot;name&quot;: 'Sudan'...}" />
+            <marker date="1400773711000" expanded="true" signature="2648:2693" placeholder="{&quot;name&quot;: 'Tunisia'...}" />
+            <marker date="1400773711000" expanded="true" signature="2695:2745" placeholder="{&quot;name&quot;: 'Western Sahara'...}" />
+            <marker date="1400773711000" expanded="true" signature="2747:2800" placeholder="{&quot;name&quot;: 'Southern Africa'...}" />
+            <marker date="1400773711000" expanded="true" signature="2802:2847" placeholder="{&quot;name&quot;: 'Botswana'...}" />
+            <marker date="1400773711000" expanded="true" signature="2849:2893" placeholder="{&quot;name&quot;: 'Lesotho'...}" />
+            <marker date="1400773711000" expanded="true" signature="2895:2939" placeholder="{&quot;name&quot;: 'Namibia'...}" />
+            <marker date="1400773711000" expanded="true" signature="2941:2991" placeholder="{&quot;name&quot;: 'South Africa'...}" />
+            <marker date="1400773711000" expanded="true" signature="2993:3039" placeholder="{&quot;name&quot;: 'Swaziland'...}" />
+            <marker date="1400773711000" expanded="true" signature="3041:3094" placeholder="{&quot;name&quot;: 'Western Africa'...}" />
+            <marker date="1400773711000" expanded="true" signature="3096:3138" placeholder="{&quot;name&quot;: 'Benin'...}" />
+            <marker date="1400773711000" expanded="true" signature="3140:3190" placeholder="{&quot;name&quot;: 'Burkina Faso'...}" />
+            <marker date="1400773711000" expanded="true" signature="3192:3238" placeholder="{&quot;name&quot;: 'Cape Verde'...}" />
+            <marker date="1400773711000" expanded="true" signature="3240:3290" placeholder="{&quot;name&quot;: 'Côte dIvoire'...}" />
+            <marker date="1400773711000" expanded="true" signature="3292:3335" placeholder="{&quot;name&quot;: 'Gambia'...}" />
+            <marker date="1400773711000" expanded="true" signature="3337:3380" placeholder="{&quot;name&quot;: 'Ghana'...}" />
+            <marker date="1400773711000" expanded="true" signature="3382:3426" placeholder="{&quot;name&quot;: 'Guinea'...}" />
+            <marker date="1400773711000" expanded="true" signature="3428:3478" placeholder="{&quot;name&quot;: 'Guinea-Bissau'...}" />
+            <marker date="1400773711000" expanded="true" signature="3480:3524" placeholder="{&quot;name&quot;: 'Liberia'...}" />
+            <marker date="1400773711000" expanded="true" signature="3526:3568" placeholder="{&quot;name&quot;: 'Mali'...}" />
+            <marker date="1400773711000" expanded="true" signature="3570:3617" placeholder="{&quot;name&quot;: 'Mauritania'...}" />
+            <marker date="1400773711000" expanded="true" signature="3619:3662" placeholder="{&quot;name&quot;: 'Niger'...}" />
+            <marker date="1400773711000" expanded="true" signature="3664:3710" placeholder="{&quot;name&quot;: 'Nigeria'...}" />
+            <marker date="1400773711000" expanded="true" signature="3712:3758" placeholder="{&quot;name&quot;: 'Saint Helena'...}" />
+            <marker date="1400773711000" expanded="true" signature="3760:3805" placeholder="{&quot;name&quot;: 'Senegal'...}" />
+            <marker date="1400773711000" expanded="true" signature="3807:3856" placeholder="{&quot;name&quot;: 'Sierra Leone'...}" />
+            <marker date="1400773711000" expanded="true" signature="3858:3899" placeholder="{&quot;name&quot;: 'Togo'...}" />
+            <marker date="1400773711000" expanded="true" signature="3901:3945" placeholder="{&quot;name&quot;: 'ASIA'...}" />
+            <marker date="1400773711000" expanded="true" signature="3947:3999" placeholder="{&quot;name&quot;: 'Eastern Asia'...}" />
+            <marker date="1400773711000" expanded="true" signature="4001:4046" placeholder="{&quot;name&quot;: 'China'...}" />
+            <marker date="1400773711000" expanded="true" signature="4048:4105" placeholder="{&quot;name&quot;: 'China, Hong Kong SAR'...}" />
+            <marker date="1400773711000" expanded="true" signature="4107:4159" placeholder="{&quot;name&quot;: 'China, Macao SAR'...}" />
+            <marker date="1400773711000" expanded="true" signature="4161:4229" placeholder="{&quot;name&quot;: 'Dem. Peoples Republic of Korea'...}" />
+            <marker date="1400773711000" expanded="true" signature="4231:4275" placeholder="{&quot;name&quot;: 'Japan'...}" />
+            <marker date="1400773711000" expanded="true" signature="4277:4322" placeholder="{&quot;name&quot;: 'Mongolia'...}" />
+            <marker date="1400773711000" expanded="true" signature="4324:4379" placeholder="{&quot;name&quot;: 'Republic of Korea'...}" />
+            <marker date="1400773711000" expanded="true" signature="4381:4444" placeholder="{&quot;name&quot;: 'Other non-specified areas'...}" />
+            <marker date="1400773711000" expanded="true" signature="4446:4504" placeholder="{&quot;name&quot;: 'South-Central Asia'...}" />
+            <marker date="1400773711000" expanded="true" signature="4506:4556" placeholder="{&quot;name&quot;: 'Central Asia'...}" />
+            <marker date="1400773711000" expanded="true" signature="4558:4606" placeholder="{&quot;name&quot;: 'Kazakhstan'...}" />
+            <marker date="1400773711000" expanded="true" signature="4608:4655" placeholder="{&quot;name&quot;: 'Kyrgyzstan'...}" />
+            <marker date="1400773711000" expanded="true" signature="4657:4704" placeholder="{&quot;name&quot;: 'Tajikistan'...}" />
+            <marker date="1400773711000" expanded="true" signature="4706:4755" placeholder="{&quot;name&quot;: 'Turkmenistan'...}" />
+            <marker date="1400773711000" expanded="true" signature="4757:4805" placeholder="{&quot;name&quot;: 'Uzbekistan'...}" />
+            <marker date="1400773711000" expanded="true" signature="4807:4860" placeholder="{&quot;name&quot;: 'Southern Asia'...}" />
+            <marker date="1400773711000" expanded="true" signature="4862:4911" placeholder="{&quot;name&quot;: 'Afghanistan'...}" />
+            <marker date="1400773711000" expanded="true" signature="4913:4962" placeholder="{&quot;name&quot;: 'Bangladesh'...}" />
+            <marker date="1400773711000" expanded="true" signature="4964:5006" placeholder="{&quot;name&quot;: 'Bhutan'...}" />
+            <marker date="1400773711000" expanded="true" signature="5008:5053" placeholder="{&quot;name&quot;: 'India'...}" />
+            <marker date="1400773711000" expanded="true" signature="5055:5119" placeholder="{&quot;name&quot;: 'Iran (Islamic Republic of)'...}" />
+            <marker date="1400773711000" expanded="true" signature="5121:5165" placeholder="{&quot;name&quot;: 'Maldives'...}" />
+            <marker date="1400773711000" expanded="true" signature="5167:5210" placeholder="{&quot;name&quot;: 'Nepal'...}" />
+            <marker date="1400773711000" expanded="true" signature="5212:5259" placeholder="{&quot;name&quot;: 'Pakistan'...}" />
+            <marker date="1400773711000" expanded="true" signature="5261:5308" placeholder="{&quot;name&quot;: 'Sri Lanka'...}" />
+            <marker date="1400773711000" expanded="true" signature="5310:5367" placeholder="{&quot;name&quot;: 'South-Eastern Asia'...}" />
+            <marker date="1400773711000" expanded="true" signature="5369:5422" placeholder="{&quot;name&quot;: 'Brunei Darussalam'...}" />
+            <marker date="1400773711000" expanded="true" signature="5424:5470" placeholder="{&quot;name&quot;: 'Cambodia'...}" />
+            <marker date="1400773711000" expanded="true" signature="5472:5520" placeholder="{&quot;name&quot;: 'Indonesia'...}" />
+            <marker date="1400773711000" expanded="true" signature="5522:5590" placeholder="{&quot;name&quot;: 'Lao Peoples Democratic Republic'...}" />
+            <marker date="1400773711000" expanded="true" signature="5592:5638" placeholder="{&quot;name&quot;: 'Malaysia'...}" />
+            <marker date="1400773711000" expanded="true" signature="5640:5685" placeholder="{&quot;name&quot;: 'Myanmar'...}" />
+            <marker date="1400773711000" expanded="true" signature="5687:5736" placeholder="{&quot;name&quot;: 'Philippines'...}" />
+            <marker date="1400773711000" expanded="true" signature="5738:5784" placeholder="{&quot;name&quot;: 'Singapore'...}" />
+            <marker date="1400773711000" expanded="true" signature="5786:5832" placeholder="{&quot;name&quot;: 'Thailand'...}" />
+            <marker date="1400773711000" expanded="true" signature="5834:5882" placeholder="{&quot;name&quot;: 'Timor-Leste'...}" />
+            <marker date="1400773711000" expanded="true" signature="5884:5930" placeholder="{&quot;name&quot;: 'Viet Nam'...}" />
+            <marker date="1400773711000" expanded="true" signature="5932:5983" placeholder="{&quot;name&quot;: 'Western Asia'...}" />
+            <marker date="1400773711000" expanded="true" signature="5985:6029" placeholder="{&quot;name&quot;: 'Armenia'...}" />
+            <marker date="1400773711000" expanded="true" signature="6031:6078" placeholder="{&quot;name&quot;: 'Azerbaijan'...}" />
+            <marker date="1400773711000" expanded="true" signature="6080:6124" placeholder="{&quot;name&quot;: 'Bahrain'...}" />
+            <marker date="1400773711000" expanded="true" signature="6126:6169" placeholder="{&quot;name&quot;: 'Cyprus'...}" />
+            <marker date="1400773711000" expanded="true" signature="6171:6215" placeholder="{&quot;name&quot;: 'Georgia'...}" />
+            <marker date="1400773711000" expanded="true" signature="6217:6259" placeholder="{&quot;name&quot;: 'Iraq'...}" />
+            <marker date="1400773711000" expanded="true" signature="6261:6304" placeholder="{&quot;name&quot;: 'Israel'...}" />
+            <marker date="1400773711000" expanded="true" signature="6306:6349" placeholder="{&quot;name&quot;: 'Jordan'...}" />
+            <marker date="1400773711000" expanded="true" signature="6351:6394" placeholder="{&quot;name&quot;: 'Kuwait'...}" />
+            <marker date="1400773711000" expanded="true" signature="6396:6440" placeholder="{&quot;name&quot;: 'Lebanon'...}" />
+            <marker date="1400773711000" expanded="true" signature="6442:6483" placeholder="{&quot;name&quot;: 'Oman'...}" />
+            <marker date="1400773711000" expanded="true" signature="6485:6527" placeholder="{&quot;name&quot;: 'Qatar'...}" />
+            <marker date="1400773711000" expanded="true" signature="6529:6579" placeholder="{&quot;name&quot;: 'Saudi Arabia'...}" />
+            <marker date="1400773711000" expanded="true" signature="6581:6636" placeholder="{&quot;name&quot;: 'State of Palestine'...}" />
+            <marker date="1400773711000" expanded="true" signature="6638:6696" placeholder="{&quot;name&quot;: 'Syrian Arab Republic'...}" />
+            <marker date="1400773711000" expanded="true" signature="6698:6742" placeholder="{&quot;name&quot;: 'Turkey'...}" />
+            <marker date="1400773711000" expanded="true" signature="6744:6801" placeholder="{&quot;name&quot;: 'United Arab Emirates'...}" />
+            <marker date="1400773711000" expanded="true" signature="6803:6846" placeholder="{&quot;name&quot;: 'Yemen'...}" />
+            <marker date="1400773711000" expanded="true" signature="6848:6893" placeholder="{&quot;name&quot;: 'EUROPE'...}" />
+            <marker date="1400773711000" expanded="true" signature="6895:6948" placeholder="{&quot;name&quot;: 'Eastern Europe'...}" />
+            <marker date="1400773711000" expanded="true" signature="6950:6994" placeholder="{&quot;name&quot;: 'Belarus'...}" />
+            <marker date="1400773711000" expanded="true" signature="6996:7041" placeholder="{&quot;name&quot;: 'Bulgaria'...}" />
+            <marker date="1400773711000" expanded="true" signature="7043:7095" placeholder="{&quot;name&quot;: 'Czech Republic'...}" />
+            <marker date="1400773711000" expanded="true" signature="7097:7142" placeholder="{&quot;name&quot;: 'Hungary'...}" />
+            <marker date="1400773711000" expanded="true" signature="7144:7188" placeholder="{&quot;name&quot;: 'Poland'...}" />
+            <marker date="1400773711000" expanded="true" signature="7190:7246" placeholder="{&quot;name&quot;: 'Republic of Moldova'...}" />
+            <marker date="1400773711000" expanded="true" signature="7248:7293" placeholder="{&quot;name&quot;: 'Romania'...}" />
+            <marker date="1400773711000" expanded="true" signature="7295:7352" placeholder="{&quot;name&quot;: 'Russian Federation'...}" />
+            <marker date="1400773711000" expanded="true" signature="7354:7399" placeholder="{&quot;name&quot;: 'Slovakia'...}" />
+            <marker date="1400773711000" expanded="true" signature="7401:7446" placeholder="{&quot;name&quot;: 'Ukraine'...}" />
+            <marker date="1400773711000" expanded="true" signature="7448:7501" placeholder="{&quot;name&quot;: 'Northern Europe'...}" />
+            <marker date="1400773711000" expanded="true" signature="7503:7554" placeholder="{&quot;name&quot;: 'Channel Islands'...}" />
+            <marker date="1400773711000" expanded="true" signature="7556:7600" placeholder="{&quot;name&quot;: 'Denmark'...}" />
+            <marker date="1400773711000" expanded="true" signature="7602:7646" placeholder="{&quot;name&quot;: 'Estonia'...}" />
+            <marker date="1400773711000" expanded="true" signature="7648:7697" placeholder="{&quot;name&quot;: 'Faeroe Islands'...}" />
+            <marker date="1400773711000" expanded="true" signature="7699:7743" placeholder="{&quot;name&quot;: 'Finland'...}" />
+            <marker date="1400773711000" expanded="true" signature="7745:7788" placeholder="{&quot;name&quot;: 'Iceland'...}" />
+            <marker date="1400773711000" expanded="true" signature="7790:7834" placeholder="{&quot;name&quot;: 'Ireland'...}" />
+            <marker date="1400773711000" expanded="true" signature="7836:7882" placeholder="{&quot;name&quot;: 'Isle of Man'...}" />
+            <marker date="1400773711000" expanded="true" signature="7884:7927" placeholder="{&quot;name&quot;: 'Latvia'...}" />
+            <marker date="1400773711000" expanded="true" signature="7929:7975" placeholder="{&quot;name&quot;: 'Lithuania'...}" />
+            <marker date="1400773711000" expanded="true" signature="7977:8020" placeholder="{&quot;name&quot;: 'Norway'...}" />
+            <marker date="1400773711000" expanded="true" signature="8022:8065" placeholder="{&quot;name&quot;: 'Sweden'...}" />
+            <marker date="1400773711000" expanded="true" signature="8067:8119" placeholder="{&quot;name&quot;: 'United Kingdom'...}" />
+            <marker date="1400773711000" expanded="true" signature="8121:8175" placeholder="{&quot;name&quot;: 'Southern Europe'...}" />
+            <marker date="1400773711000" expanded="true" signature="8177:8221" placeholder="{&quot;name&quot;: 'Albania'...}" />
+            <marker date="1400773711000" expanded="true" signature="8223:8265" placeholder="{&quot;name&quot;: 'Andorra'...}" />
+            <marker date="1400773711000" expanded="true" signature="8267:8326" placeholder="{&quot;name&quot;: 'Bosnia and Herzegovina'...}" />
+            <marker date="1400773711000" expanded="true" signature="8328:8372" placeholder="{&quot;name&quot;: 'Croatia'...}" />
+            <marker date="1400773711000" expanded="true" signature="8374:8418" placeholder="{&quot;name&quot;: 'Gibraltar'...}" />
+            <marker date="1400773711000" expanded="true" signature="8420:8464" placeholder="{&quot;name&quot;: 'Greece'...}" />
+            <marker date="1400773711000" expanded="true" signature="8466:8508" placeholder="{&quot;name&quot;: 'Holy See'...}" />
+            <marker date="1400773711000" expanded="true" signature="8510:8553" placeholder="{&quot;name&quot;: 'Italy'...}" />
+            <marker date="1400773711000" expanded="true" signature="8555:8596" placeholder="{&quot;name&quot;: 'Malta'...}" />
+            <marker date="1400773711000" expanded="true" signature="8598:8644" placeholder="{&quot;name&quot;: 'Montenegro'...}" />
+            <marker date="1400773711000" expanded="true" signature="8646:8692" placeholder="{&quot;name&quot;: 'Portugal'...}" />
+            <marker date="1400773711000" expanded="true" signature="8694:8739" placeholder="{&quot;name&quot;: 'San Marino'...}" />
+            <marker date="1400773711000" expanded="true" signature="8741:8784" placeholder="{&quot;name&quot;: 'Serbia'...}" />
+            <marker date="1400773711000" expanded="true" signature="8786:8831" placeholder="{&quot;name&quot;: 'Slovenia'...}" />
+            <marker date="1400773711000" expanded="true" signature="8833:8876" placeholder="{&quot;name&quot;: 'Spain'...}" />
+            <marker date="1400773711000" expanded="true" signature="8878:8929" placeholder="{&quot;name&quot;: 'TFYR Macedonia'...}" />
+            <marker date="1400773711000" expanded="true" signature="8931:8984" placeholder="{&quot;name&quot;: 'Western Europe'...}" />
+            <marker date="1400773711000" expanded="true" signature="8986:9030" placeholder="{&quot;name&quot;: 'Austria'...}" />
+            <marker date="1400773711000" expanded="true" signature="9032:9077" placeholder="{&quot;name&quot;: 'Belgium'...}" />
+            <marker date="1400773711000" expanded="true" signature="9079:9123" placeholder="{&quot;name&quot;: 'France'...}" />
+            <marker date="1400773711000" expanded="true" signature="9125:9170" placeholder="{&quot;name&quot;: 'Germany'...}" />
+            <marker date="1400773711000" expanded="true" signature="9172:9220" placeholder="{&quot;name&quot;: 'Liechtenstein'...}" />
+            <marker date="1400773711000" expanded="true" signature="9222:9268" placeholder="{&quot;name&quot;: 'Luxembourg'...}" />
+            <marker date="1400773711000" expanded="true" signature="9270:9311" placeholder="{&quot;name&quot;: 'Monaco'...}" />
+            <marker date="1400773711000" expanded="true" signature="9313:9362" placeholder="{&quot;name&quot;: 'Netherlands'...}" />
+            <marker date="1400773711000" expanded="true" signature="9364:9412" placeholder="{&quot;name&quot;: 'Switzerland'...}" />
+            <marker date="1400773711000" expanded="true" signature="9414:9484" placeholder="{&quot;name&quot;: 'LATIN AMERICA AND THE CARIBBEAN'...}" />
+            <marker date="1400773711000" expanded="true" signature="9486:9533" placeholder="{&quot;name&quot;: 'Caribbean'...}" />
+            <marker date="1400773711000" expanded="true" signature="9535:9578" placeholder="{&quot;name&quot;: 'Anguilla'...}" />
+            <marker date="1400773711000" expanded="true" signature="9580:9634" placeholder="{&quot;name&quot;: 'Antigua and Barbuda'...}" />
+            <marker date="1400773711000" expanded="true" signature="9636:9677" placeholder="{&quot;name&quot;: 'Aruba'...}" />
+            <marker date="1400773711000" expanded="true" signature="9679:9722" placeholder="{&quot;name&quot;: 'Bahamas'...}" />
+            <marker date="1400773711000" expanded="true" signature="9724:9768" placeholder="{&quot;name&quot;: 'Barbados'...}" />
+            <marker date="1400773711000" expanded="true" signature="9770:9827" placeholder="{&quot;name&quot;: 'British Virgin Islands'...}" />
+            <marker date="1400773711000" expanded="true" signature="9829:9885" placeholder="{&quot;name&quot;: 'Caribbean Netherlands'...}" />
+            <marker date="1400773711000" expanded="true" signature="9887:9936" placeholder="{&quot;name&quot;: 'Cayman Islands'...}" />
+            <marker date="1400773711000" expanded="true" signature="9938:9980" placeholder="{&quot;name&quot;: 'Cuba'...}" />
+            <marker date="1400773711000" expanded="true" signature="9982:10025" placeholder="{&quot;name&quot;: 'Curaçao'...}" />
+            <marker date="1400773711000" expanded="true" signature="10027:10070" placeholder="{&quot;name&quot;: 'Dominica'...}" />
+            <marker date="1400773711000" expanded="true" signature="10072:10128" placeholder="{&quot;name&quot;: 'Dominican Republic'...}" />
+            <marker date="1400773711000" expanded="true" signature="10130:10173" placeholder="{&quot;name&quot;: 'Grenada'...}" />
+            <marker date="1400773711000" expanded="true" signature="10175:10221" placeholder="{&quot;name&quot;: 'Guadeloupe'...}" />
+            <marker date="1400773711000" expanded="true" signature="10223:10265" placeholder="{&quot;name&quot;: 'Haiti'...}" />
+            <marker date="1400773711000" expanded="true" signature="10267:10311" placeholder="{&quot;name&quot;: 'Jamaica'...}" />
+            <marker date="1400773711000" expanded="true" signature="10313:10359" placeholder="{&quot;name&quot;: 'Martinique'...}" />
+            <marker date="1400773711000" expanded="true" signature="10361:10405" placeholder="{&quot;name&quot;: 'Montserrat'...}" />
+            <marker date="1400773711000" expanded="true" signature="10407:10455" placeholder="{&quot;name&quot;: 'Puerto Rico'...}" />
+            <marker date="1400773711000" expanded="true" signature="10457:10513" placeholder="{&quot;name&quot;: 'Saint Kitts and Nevis'...}" />
+            <marker date="1400773711000" expanded="true" signature="10515:10562" placeholder="{&quot;name&quot;: 'Saint Lucia'...}" />
+            <marker date="1400773711000" expanded="true" signature="10564:10632" placeholder="{&quot;name&quot;: 'Saint Vincent and the Grenadines'...}" />
+            <marker date="1400773711000" expanded="true" signature="10634:10694" placeholder="{&quot;name&quot;: 'Sint Maarten (Dutch part)'...}" />
+            <marker date="1400773711000" expanded="true" signature="10696:10752" placeholder="{&quot;name&quot;: 'Trinidad and Tobago'...}" />
+            <marker date="1400773711000" expanded="true" signature="10754:10813" placeholder="{&quot;name&quot;: 'Turks and Caicos Islands'...}" />
+            <marker date="1400773711000" expanded="true" signature="10815:10879" placeholder="{&quot;name&quot;: 'United States Virgin Islands'...}" />
+            <marker date="1400773711000" expanded="true" signature="10881:10935" placeholder="{&quot;name&quot;: 'Central America'...}" />
+            <marker date="1400773711000" expanded="true" signature="10937:10979" placeholder="{&quot;name&quot;: 'Belize'...}" />
+            <marker date="1400773711000" expanded="true" signature="10981:11028" placeholder="{&quot;name&quot;: 'Costa Rica'...}" />
+            <marker date="1400773711000" expanded="true" signature="11030:11078" placeholder="{&quot;name&quot;: 'El Salvador'...}" />
+            <marker date="1400773711000" expanded="true" signature="11080:11127" placeholder="{&quot;name&quot;: 'Guatemala'...}" />
+            <marker date="1400773711000" expanded="true" signature="11129:11174" placeholder="{&quot;name&quot;: 'Honduras'...}" />
+            <marker date="1400773711000" expanded="true" signature="11176:11221" placeholder="{&quot;name&quot;: 'Mexico'...}" />
+            <marker date="1400773711000" expanded="true" signature="11223:11269" placeholder="{&quot;name&quot;: 'Nicaragua'...}" />
+            <marker date="1400773711000" expanded="true" signature="11271:11314" placeholder="{&quot;name&quot;: 'Panama'...}" />
+            <marker date="1400773711000" expanded="true" signature="11316:11368" placeholder="{&quot;name&quot;: 'South America'...}" />
+            <marker date="1400773711000" expanded="true" signature="11370:11417" placeholder="{&quot;name&quot;: 'Argentina'...}" />
+            <marker date="1400773711000" expanded="true" signature="11419:11489" placeholder="{&quot;name&quot;: 'Bolivia (Plurinational State of)'...}" />
+            <marker date="1400773711000" expanded="true" signature="11491:11536" placeholder="{&quot;name&quot;: 'Brazil'...}" />
+            <marker date="1400773711000" expanded="true" signature="11538:11581" placeholder="{&quot;name&quot;: 'Chile'...}" />
+            <marker date="1400773711000" expanded="true" signature="11583:11629" placeholder="{&quot;name&quot;: 'Colombia'...}" />
+            <marker date="1400773711000" expanded="true" signature="11631:11676" placeholder="{&quot;name&quot;: 'Ecuador'...}" />
+            <marker date="1400773711000" expanded="true" signature="11678:11739" placeholder="{&quot;name&quot;: 'Falkland Islands (Malvinas)'...}" />
+            <marker date="1400773711000" expanded="true" signature="11741:11790" placeholder="{&quot;name&quot;: 'French Guiana'...}" />
+            <marker date="1400773711000" expanded="true" signature="11792:11834" placeholder="{&quot;name&quot;: 'Guyana'...}" />
+            <marker date="1400773711000" expanded="true" signature="11836:11881" placeholder="{&quot;name&quot;: 'Paraguay'...}" />
+            <marker date="1400773711000" expanded="true" signature="11883:11925" placeholder="{&quot;name&quot;: 'Peru'...}" />
+            <marker date="1400773711000" expanded="true" signature="11927:11971" placeholder="{&quot;name&quot;: 'Suriname'...}" />
+            <marker date="1400773711000" expanded="true" signature="11973:12017" placeholder="{&quot;name&quot;: 'Uruguay'...}" />
+            <marker date="1400773711000" expanded="true" signature="12019:12091" placeholder="{&quot;name&quot;: 'Venezuela (Bolivarian Republic of)'...}" />
+            <marker date="1400773711000" expanded="true" signature="12093:12148" placeholder="{&quot;name&quot;: 'NORTHERN AMERICA'...}" />
+            <marker date="1400773711000" expanded="true" signature="12150:12192" placeholder="{&quot;name&quot;: 'Bermuda'...}" />
+            <marker date="1400773711000" expanded="true" signature="12194:12238" placeholder="{&quot;name&quot;: 'Canada'...}" />
+            <marker date="1400773711000" expanded="true" signature="12240:12284" placeholder="{&quot;name&quot;: 'Greenland'...}" />
+            <marker date="1400773711000" expanded="true" signature="12286:12345" placeholder="{&quot;name&quot;: 'Saint Pierre and Miquelon'...}" />
+            <marker date="1400773711000" expanded="true" signature="12347:12410" placeholder="{&quot;name&quot;: 'United States of America'...}" />
+            <marker date="1400773711000" expanded="true" signature="12412:12457" placeholder="{&quot;name&quot;: 'OCEANIA'...}" />
+            <marker date="1400773711000" expanded="true" signature="12459:12518" placeholder="{&quot;name&quot;: 'Australia/New Zealand'...}" />
+            <marker date="1400773711000" expanded="true" signature="12520:12567" placeholder="{&quot;name&quot;: 'Australia'...}" />
+            <marker date="1400773711000" expanded="true" signature="12569:12617" placeholder="{&quot;name&quot;: 'New Zealand'...}" />
+            <marker date="1400773711000" expanded="true" signature="12619:12665" placeholder="{&quot;name&quot;: 'Melanesia'...}" />
+            <marker date="1400773711000" expanded="true" signature="12667:12707" placeholder="{&quot;name&quot;: 'Fiji'...}" />
+            <marker date="1400773711000" expanded="true" signature="12709:12758" placeholder="{&quot;name&quot;: 'New Caledonia'...}" />
+            <marker date="1400773711000" expanded="true" signature="12760:12813" placeholder="{&quot;name&quot;: 'Papua New Guinea'...}" />
+            <marker date="1400773711000" expanded="true" signature="12815:12866" placeholder="{&quot;name&quot;: 'Solomon Islands'...}" />
+            <marker date="1400773711000" expanded="true" signature="12868:12911" placeholder="{&quot;name&quot;: 'Vanuatu'...}" />
+            <marker date="1400773711000" expanded="true" signature="12913:12959" placeholder="{&quot;name&quot;: 'Micronesia'...}" />
+            <marker date="1400773711000" expanded="true" signature="12961:13001" placeholder="{&quot;name&quot;: 'Guam'...}" />
+            <marker date="1400773711000" expanded="true" signature="13003:13046" placeholder="{&quot;name&quot;: 'Kiribati'...}" />
+            <marker date="1400773711000" expanded="true" signature="13048:13099" placeholder="{&quot;name&quot;: 'Marshall Islands'...}" />
+            <marker date="1400773711000" expanded="true" signature="13101:13164" placeholder="{&quot;name&quot;: 'Micronesia (Fed. States of)'...}" />
+            <marker date="1400773711000" expanded="true" signature="13166:13206" placeholder="{&quot;name&quot;: 'Nauru'...}" />
+            <marker date="1400773711000" expanded="true" signature="13208:13267" placeholder="{&quot;name&quot;: 'Northern Mariana Islands'...}" />
+            <marker date="1400773711000" expanded="true" signature="13269:13309" placeholder="{&quot;name&quot;: 'Palau'...}" />
+            <marker date="1400773711000" expanded="true" signature="13311:13356" placeholder="{&quot;name&quot;: 'Polynesia'...}" />
+            <marker date="1400773711000" expanded="true" signature="13358:13407" placeholder="{&quot;name&quot;: 'American Samoa'...}" />
+            <marker date="1400773711000" expanded="true" signature="13409:13456" placeholder="{&quot;name&quot;: 'Cook Islands'...}" />
+            <marker date="1400773711000" expanded="true" signature="13458:13510" placeholder="{&quot;name&quot;: 'French Polynesia'...}" />
+            <marker date="1400773711000" expanded="true" signature="13512:13550" placeholder="{&quot;name&quot;: 'Niue'...}" />
+            <marker date="1400773711000" expanded="true" signature="13552:13593" placeholder="{&quot;name&quot;: 'Samoa'...}" />
+            <marker date="1400773711000" expanded="true" signature="13595:13636" placeholder="{&quot;name&quot;: 'Tokelau'...}" />
+            <marker date="1400773711000" expanded="true" signature="13638:13679" placeholder="{&quot;name&quot;: 'Tonga'...}" />
+            <marker date="1400773711000" expanded="true" signature="13681:13722" placeholder="{&quot;name&quot;: 'Tuvalu'...}" />
+            <marker date="1400773711000" expanded="true" signature="13724:13784" placeholder="{&quot;name&quot;: 'Wallis and Futuna Islands'...}" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -15,6 +15,11 @@ body {
     width: 500px;
     height: 500px;
 }
+
+.todo.done {text-decoration: line-through; color: gray;}
+.tasks { margin: 10px; }
+.stats { margin: 5px; }
+
 /* Custom page header */
 .header {
   border-bottom: 1px solid #e5e5e5;
